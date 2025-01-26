@@ -1,4 +1,4 @@
-# 💵 Iranian Banknote Detection System 🕵️‍♀️
+# Iranian Banknote Detection System
 
 ## Overview
 
