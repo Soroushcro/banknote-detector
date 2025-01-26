@@ -9,7 +9,7 @@ This computer vision project implements a robust image recognition system for de
 ## 🚀 Key Features
 
 - **High Accuracy**: Achieved **98.86%** detection rate on test dataset
-- **Blazing Fast Processing**: Processes 88 images in just **10 seconds**
+- **Blazing Fast Processing**: Processes 88 images in just **5 seconds** (20 seconds with visualization)
 - **Multi-Threaded Processing**: Utilizes concurrent processing for efficient image analysis
 - **Flexible Feature Matching**: Uses ORB algorithm for reliable feature extraction
 - **Adaptive Image Preprocessing**: Handles variations in image quality and lighting
